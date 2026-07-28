@@ -1,0 +1,5 @@
+Johnrey Fabros
+BSDSA 2
+25-3171-TS
+Hello! This is my first GitHub repository.
+I am learning how to use GitHub for version control.
